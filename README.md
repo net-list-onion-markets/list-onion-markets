@@ -84,4 +84,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  16.06.2025 05:19
+
+
+Update:  17.06.2025 05:25 Fixed broken url, now reachable
