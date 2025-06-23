@@ -88,4 +88,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  21 June
+
+
+Update: Manifest links
