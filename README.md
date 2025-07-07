@@ -96,4 +96,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  04 July 2025
+
+
+Update: Outdated paths
