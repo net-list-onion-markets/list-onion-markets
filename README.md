@@ -104,4 +104,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update: url is operational
+
+
+Update: url is now working correctly
