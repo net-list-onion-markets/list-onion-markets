@@ -110,4 +110,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  13 August Link is now live and reachable
+
+
+Update:  Tuesday 19 August 2025 Invalid URLs fixed
