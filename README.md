@@ -1,4 +1,4 @@
-<img src="/third-party/fix.webp" width="200">
+<img src="/assets/logo.png" width="200">
 
 # Navigating the Shadows: The Onion Markets List
 
@@ -29,18 +29,12 @@ Registering is the initial step:
 
 Use [Tor Browser!](https://www.torproject.org/download/)
 
-*   [Abacus - Market](http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion) - `http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion`
-*   [Archetyp](@archetyp) - `http://arch3pmxcxnftg6kdf3tzyfr5p7xof6b7psxjqtk635egp4j5qwdudqd.onion`
-*   [DarkDock - Market](http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion) - `http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion`
-*   [Dark Matter - Market](http://ytbzy2nljonwcp76o4yyccmrv64ysbjejnwtnpumqcrlkoa7pmpomeqd.onion) - `http://ytbzy2nljonwcp76o4yyccmrv64ysbjejnwtnpumqcrlkoa7pmpomeqd.onion`
-*   [DrugHub - Market](http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion) - `http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion`
-*   [Elysium - Market](http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion) - `http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion`
-*   [Flugsvamp - 4.0 (Sweden)](http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion) - `http://cfmzeua3g46ufmry3kc57zterrnoiy3qaxfz5bhuj3zcwi5r7e4argid.onion`
-*   [MGM Grand - Market](http://pu2rsoo3kw6palhiod6zkilf46oms5xw2jfsirubgz2x7owmboylbsyd.onion) - `http://pu2rsoo3kw6palhiod6zkilf46oms5xw2jfsirubgz2x7owmboylbsyd.onion`
-*   [Nexus - Market](http://nexusxsx6orlzngdmebxoglwk6xm7ceglmljaujxqgbwyrsobm6gt6ad.onion) - `http://nexusxsx6orlzngdmebxoglwk6xm7ceglmljaujxqgbwyrsobm6gt6ad.onion`
+*   [BlackOps - Market](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion) - `http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion`
+*   [DrugHub - Market](http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion) - `http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion`
+*   [Nexus - Market](http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion) - `http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion`
 *   [Torzon Market](http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion) - `http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion`
-*   [Vortex - Market](http://vh3cljhzsk46awmrohty2vqgfvalsu7pba46c5xunoew6nijvbzrueqd.onion) - `http://vh3cljhzsk46awmrohty2vqgfvalsu7pba46c5xunoew6nijvbzrueqd.onion`
 *   [We-The North Canada](http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion) - `http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion`
+
 
 ## Security: Stay Protected
 
@@ -79,43 +73,3 @@ Verify links.
 Onion markets offer private transactions. Be safe.
 
 Please contribute and add stars to this repo.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Update:  12 September 2025
